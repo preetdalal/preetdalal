@@ -1,6 +1,6 @@
 # Preet Dalal
 
-B.Tech Information Technology, DJSCE Mumbai — specializing in DevOps and Cloud Engineering, with a backend engineering foundation and applied AI/ML experience.
+B.Tech Information Technology, DJSCE Mumbai - specializing in DevOps and Cloud Engineering, with a backend engineering foundation and applied AI/ML experience.
 
 I build backend services in Java and Python, then containerize and deploy them with Docker and Kubernetes, wiring up autoscaling and monitoring along the way. Machine learning is a secondary track I use to build and ship real models, not just notebooks.
 
