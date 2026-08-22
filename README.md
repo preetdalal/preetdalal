@@ -35,10 +35,13 @@
 
 ### Featured Projects
 
-- **[FraudGuard AI](https://github.com/preetdalal/fraud-detection-system-scoe)**: Multi modal fraud and cybersecurity threat detection platform with an 8 vector detection system. FastAPI backend, React/Vite frontend.
-- **[Job Application Tracker API](https://github.com/preetdalal/job-tracker)**: Spring Boot 3.2 (Java 17) REST API with JWT authentication, Redis caching, Flyway migrations, Testcontainers, and Docker deployment.
-  
+- **[FraudGuard AI](https://github.com/preetdalal/fraud-detection-system-scoe)**: Multi modal fraud and cybersecurity threat detection platform with an 8 vector detection system. FastAPI backend, React/Vite frontend, deployed on Render.
+- **Job Application Tracker API**: Spring Boot 3.2 (Java 17) REST API with JWT authentication, Redis caching, Flyway migrations, Testcontainers, and Docker deployment.
+- **Portfolio Website**: Personal site showcasing my work, including FraudGuard AI, MoodTune, and Algo Trader Pro.
+
 ---
 
 ### Links
+- Portfolio: [add your link here]
 - LinkedIn: [linkedin.com/in/preetdalal](https://linkedin.com/in/preetdalal)
+- GitHub: [github.com/preetdalal](https://github.com/preetdalal)
