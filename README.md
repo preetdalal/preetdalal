@@ -71,7 +71,7 @@ A deep learning framework for skin lesion classification that stays accurate und
 
 Built a custom Residual Attention network (2.88M params) trained with a curriculum adversarial schedule, and paired it with a pre-processing defense pipeline (bit-depth reduction, blur, JPEG compression) that recovers accuracy an attacked model would otherwise lose. FGSM-attacked accuracy went from 24% on the baseline to 62.5% with the proposed defenses. Model weights are hosted on Hugging Face Hub since they're too large for standard deployment, with the Flask backend deployable on Hugging Face Spaces or tunneled from a local machine via Microsoft Dev Tunnels.
 
-`PyTorch/TensorFlow` `React` `Docker` `Hugging Face Hub`
+`PyTorch/TensorFlow` `React` `Flask` `Hugging Face Hub`
 
 ### [SVAMITVA AI Feature Extraction](https://github.com/preetdalal/svamvitva-sih) · [demo](https://nerdvana-sih.vercel.app)
 Built for Smart India Hackathon: converts drone orthophotos into vector GIS village maps, extracting building footprints, roads, and waterbodies.
